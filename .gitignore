@@ -1,0 +1,6 @@
+./hardware-configuration.nix
+./home-manager-setup.nix
+./updated-docker.nix
+./updated-signal-desktop-generic.nix
+./updated-signal-desktop.nix
+
